@@ -6,4 +6,14 @@ source_metadata:
 
     '
   author: ''
-  volumes: {}
+  volumes:
+    d6260ac0233c471f9a78e71fed4889c2:
+      image_group_id: I4PD1384
+      title: ''
+      volume_number: 1
+      total_pages: 668
+    27c440462594439981c2556de27cbf63:
+      image_group_id: I4PD1385
+      title: ''
+      volume_number: 2
+      total_pages: 744
